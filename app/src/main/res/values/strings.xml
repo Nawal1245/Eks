@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EksApp</string>
+    <string name="BackArrow">Back Arrow</string>
+    <string name="Profile_name">Martin Bags</string>
+    <string name="Profile_handle">\@luxBags</string>
+    <string name="Bio">Authentic Second Hand Luxury Bags!</string>
+    <string name="Followers">20K Followers</string>
+    <string name="items_sold">267 items sold</string>
+    <string name="Message_me">Message me</string>
+</resources>
